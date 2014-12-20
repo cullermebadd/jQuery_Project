@@ -1,0 +1,17 @@
+#container{
+	height: 864px;
+	width: 864px;
+}
+.square {
+	float: left;
+	/* height: 50px; */
+	/* width: 50px; */
+	border: 2px solid;
+}
+.white {
+	background-color: white;
+}
+
+/* .square:hover {
+	background-color: blue;
+} */
